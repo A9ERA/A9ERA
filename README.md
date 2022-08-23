@@ -4,6 +4,7 @@
 I´m Chanathip, Full Stack Developer
 
 🏢 I'm currently working at **Seagate**
+
 ![image info](./assets/coderman.gif)
 
 🚀 I use daily:
