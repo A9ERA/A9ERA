@@ -7,12 +7,7 @@ I´m Chanathip, Full Stack Developer
 
 ![image info](./assets/coderman.gif)
 
-🚀 I use daily:
-
-
-
-
-
+🚀 Currently working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=orange&color=FFF)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&color=FFF)
